@@ -1,0 +1,46 @@
+body {
+    border-radius:5px;
+    background-color:#ffffcc;
+}
+#encabezado {
+    height:60px;
+    width:98%;
+    background-color:#33FFCC;
+    position:fixed;
+    z-index:1;
+    border-radius:15px;
+}
+.izquierda {
+    float:left;
+    margin-top:60px;
+    background-color:#3300cc;
+    padding-bottom:250px;
+    padding-right:100px;
+    
+}
+.derecha {
+    float:right;
+    
+    margin-top:40px;
+    margin-right:40px;
+    background-color:#ffffcc;
+    padding-left:180px;
+    
+
+    text-align:left;
+}
+.Script {
+    font-family:Script;
+    font-size:30px;
+}
+.Verdana {
+    font-family:Verdana;
+}
+#pie {
+    clear:both;
+    margin-right:40px;
+    text-align:right;
+}
+.hotmail {
+    background-color:#cc00ff;
+}

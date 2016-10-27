@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>CARLOS FRANCO C.V.</title>
+	</head>
+	<body>
+	<div id="encabezado"><h1>Currículum Vitae.Carlos Franco</h1></div>
+	<div class="izquierda"><img src="http://3.bp.blogspot.com/-5CP7QSpvSCY/UZonp5gO3xI/AAAAAAAAABI/n30YiBLQh6g/s1600/image.jpg"></div>
+	<div class="derecha"><h4>Nombre completo:Carlos Alberto Franco Morales</h4><h4>
+	Fecha de nacimieto:26/11/1970</h4>
+	<h3><span class="script">Estudios</span>:</h3> 
+	<ul>
+	<li>Curso Técnico en Comunicación Social</li>
+	<li>Técnicas de Marketing</li>
+	<li>Actualmente cursando Técnico Programador</li>
+	</ul>
+	<h3><span class="Verdana">Trabajos</span>:</h3>
+	<p>Mas de 20 años como encargado en empresa unipersonal "Video club 100".</p>
+	<p>Otro trabajo en emprendimiento familiar de reparación de automóviles.</p>
+	<img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.160.160/p160x160/10257805_754960444544210_5818000412802046744_n.jpg?oh=93c45e7a7c753859ca4609c1933790a1&oe=54D2BB72&__gda__=1427621986_73b6c9926754d6c4e21f317c5370aae0"></div>
+	<div id="pie"><h3>         Contacto:cel:098163855-<a href="http://www.outlook.com"><span class="hotmail">correo:c4fran@hotmail.com</span></a>     </div>
+	</body>
+</html>
